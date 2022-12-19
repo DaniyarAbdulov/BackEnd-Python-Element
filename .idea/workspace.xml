@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a1cd12e-3bae-4afb-8f77-44470a6cbde2" name="Changes" comment="test PY2">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/Labaratorka 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/BankSite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/handlers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/repositories.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labaratorka 3/services.py" beforeDir="false" />
-    </list>
+    <list default="true" id="3a1cd12e-3bae-4afb-8f77-44470a6cbde2" name="Changes" comment="test PY2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
