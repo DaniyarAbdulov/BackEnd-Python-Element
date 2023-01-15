@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Category(models.Model):
-    name = models.CharField(max_length=250)
+    name = models.CharField(max_length=250, db_index=True)
 
     def __str__(self):
         return f'{self.name}'
@@ -22,4 +22,5 @@ class Product(models.Model):
 
     def __str__(self):
         return f'{self.category}: {self.name}'
+
 
